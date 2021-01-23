@@ -1,6 +1,7 @@
 {
     "name": "nim-ili9341",
     "version": "0.1.0",
+    "license": "MIT",
     "dependencies": {
         "nim-adafruit-gfx": "https://github.com/markspanbroek/nim-adafruit-gfx",
         "adafruit/Adafruit ILI9341": "^1.5.6",
