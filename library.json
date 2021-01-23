@@ -1,0 +1,10 @@
+{
+    "name": "nim-ili9341",
+    "version": "0.1.0",
+    "dependencies": {
+        "nim-adafruit-gfx": "https://github.com/markspanbroek/nim-adafruit-gfx",
+        "adafruit/Adafruit ILI9341": "^1.5.6",
+        "adafruit/Adafruit BusIO": "@^1.7.1",
+        "Wire": "*"
+    }
+}
